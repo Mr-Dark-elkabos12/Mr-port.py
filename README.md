@@ -1,6 +1,6 @@
 
 
-git clone https://github.com/claire035/Port-Scanning.git
+git clone https://github.com/Mr-Dark-elkabos12/Mr-port.py.git
 
 cd Port-Scanning
 
